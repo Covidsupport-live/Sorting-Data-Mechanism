@@ -1,0 +1,211 @@
+[
+    {
+        "model": "datacontrol.bedsdatabse",
+        "pk": 2,
+        "fields": {
+            "mobileno": 5134642737559020000,
+            "name": "Dolor impedit tenet",
+            "state": 37,
+            "district": 733,
+            "type": null,
+            "totalBeds": 73,
+            "vacantBeds": 69,
+            "verified": true,
+            "upvotes": 23460,
+            "downvotes": 8,
+            "created_at": "2021-04-25T18:26:47.158Z",
+            "updated_at": "2021-04-29T15:17:13.904Z",
+            "using": true
+        }
+    },
+    {
+        "model": "datacontrol.bedsdatabse",
+        "pk": 4,
+        "fields": {
+            "mobileno": -7768143122088907000,
+            "name": "Impedit reprehender",
+            "state": 3,
+            "district": 25,
+            "type": null,
+            "totalBeds": 21,
+            "vacantBeds": 47,
+            "verified": true,
+            "upvotes": 34343,
+            "downvotes": 10,
+            "created_at": "2021-04-25T18:27:00.184Z",
+            "updated_at": "2021-04-28T13:42:30.893Z",
+            "using": true
+        }
+    },
+    {
+        "model": "datacontrol.bedsdatabse",
+        "pk": 5,
+        "fields": {
+            "mobileno": null,
+            "name": "Incidunt dolore vel",
+            "state": 28,
+            "district": 491,
+            "type": null,
+            "totalBeds": 20,
+            "vacantBeds": 45,
+            "verified": true,
+            "upvotes": 0,
+            "downvotes": 2,
+            "created_at": "2021-04-25T18:27:06.117Z",
+            "updated_at": "2021-04-27T16:13:06.455Z",
+            "using": true
+        }
+    },
+    {
+        "model": "datacontrol.bedsdatabse",
+        "pk": 11,
+        "fields": {
+            "mobileno": 12,
+            "name": "hospital1",
+            "state": 37,
+            "district": 730,
+            "type": "govt",
+            "totalBeds": 32,
+            "vacantBeds": 45,
+            "verified": false,
+            "upvotes": 0,
+            "downvotes": 0,
+            "created_at": "2021-04-28T04:57:30.387Z",
+            "updated_at": "2021-04-28T04:57:30.387Z",
+            "using": true
+        }
+    },
+    {
+        "model": "datacontrol.bedsdatabse",
+        "pk": 3,
+        "fields": {
+            "mobileno": -4101743309361332000,
+            "name": "Amet obcaecati dolo",
+            "state": 32,
+            "district": 560,
+            "type": null,
+            "totalBeds": 14,
+            "vacantBeds": 41,
+            "verified": true,
+            "upvotes": 341,
+            "downvotes": 0,
+            "created_at": "2021-04-25T18:26:52.125Z",
+            "updated_at": "2021-04-27T15:44:34.474Z",
+            "using": true
+        }
+    },
+    {
+        "model": "datacontrol.bedsdatabse",
+        "pk": 1,
+        "fields": {
+            "mobileno": -8913936178152858000,
+            "name": "Consequatur Volupta",
+            "state": 37,
+            "district": 727,
+            "type": null,
+            "totalBeds": 77,
+            "vacantBeds": 17,
+            "verified": true,
+            "upvotes": -2197904973622870000,
+            "downvotes": 6,
+            "created_at": "2021-04-25T18:26:37.500Z",
+            "updated_at": "2021-04-27T18:10:30.391Z",
+            "using": false
+        }
+    },
+    {
+        "model": "datacontrol.bedsdatabse",
+        "pk": 9,
+        "fields": {
+            "mobileno": 12,
+            "name": "hospital1",
+            "state": 37,
+            "district": 730,
+            "type": "govt",
+            "totalBeds": 0,
+            "vacantBeds": 12,
+            "verified": true,
+            "upvotes": 0,
+            "downvotes": 0,
+            "created_at": "2021-04-28T04:57:30.369Z",
+            "updated_at": "2021-04-28T04:57:30.369Z",
+            "using": false
+        }
+    },
+    {
+        "model": "datacontrol.bedsdatabse",
+        "pk": 6,
+        "fields": {
+            "mobileno": 68,
+            "name": "Jermaine Rowland",
+            "state": 37,
+            "district": 733,
+            "type": null,
+            "totalBeds": 3,
+            "vacantBeds": 10,
+            "verified": true,
+            "upvotes": 6,
+            "downvotes": 2,
+            "created_at": "2021-04-25T21:58:53.963Z",
+            "updated_at": "2021-04-27T18:10:32.335Z",
+            "using": false
+        }
+    },
+    {
+        "model": "datacontrol.bedsdatabse",
+        "pk": 8,
+        "fields": {
+            "mobileno": 75,
+            "name": "Olivia Carlson",
+            "state": 37,
+            "district": 733,
+            "type": null,
+            "totalBeds": 29,
+            "vacantBeds": 7,
+            "verified": true,
+            "upvotes": 0,
+            "downvotes": 0,
+            "created_at": "2021-04-26T08:41:21.295Z",
+            "updated_at": "2021-04-27T15:44:29.827Z",
+            "using": true
+        }
+    },
+    {
+        "model": "datacontrol.bedsdatabse",
+        "pk": 10,
+        "fields": {
+            "mobileno": 12,
+            "name": "hospital2",
+            "state": 37,
+            "district": 730,
+            "type": "govt",
+            "totalBeds": 32,
+            "vacantBeds": 0,
+            "verified": true,
+            "upvotes": 0,
+            "downvotes": 0,
+            "created_at": "2021-04-28T04:57:30.379Z",
+            "updated_at": "2021-04-28T04:57:30.379Z",
+            "using": true
+        }
+    },
+    {
+        "model": "datacontrol.bedsdatabse",
+        "pk": 7,
+        "fields": {
+            "mobileno": 34546,
+            "name": "wdddf",
+            "state": 37,
+            "district": 733,
+            "type": null,
+            "totalBeds": 0,
+            "vacantBeds": 0,
+            "verified": true,
+            "upvotes": 4,
+            "downvotes": 0,
+            "created_at": "2021-04-26T04:58:09.622Z",
+            "updated_at": "2021-04-26T12:27:09.337Z",
+            "using": true
+        }
+    }
+]
